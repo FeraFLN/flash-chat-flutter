@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "722211601599",
+    "project_id": "flash-chat-588c1",
+    "storage_bucket": "flash-chat-588c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722211601599:android:86ddbee01b9cf794231a0a",
+        "android_client_info": {
+          "package_name": "br.ferafln.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722211601599-jh6m3b340g7rhlvtl1c6bq9q766bff0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4kgMJ8zCd69nF40jXsKXQEo5LZQUveKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722211601599-jh6m3b340g7rhlvtl1c6bq9q766bff0j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
